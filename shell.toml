@@ -1,0 +1,7 @@
+# Launcher/menu border matches the Monokai Pro Light Sun accent (#d4572b)
+[menu]
+border = "accent"
+border-alpha = 1.0
+selected-border = "accent"
+selected-border-alpha = 0.25
+border-width = 2
