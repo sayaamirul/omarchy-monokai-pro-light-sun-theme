@@ -1,6 +1,6 @@
 # Monokai Pro Light Sun for Omarchy
 
-A warm, light [Omarchy](https://omarchy.org/) theme inspired by **Monokai Pro Light (Filter Sun)**. Cream surfaces, cool blue borders, and five illustrated programming wallpapers make a calm daytime desktop.
+A warm, light [Omarchy](https://omarchy.org/) theme inspired by **Monokai Pro Light (Filter Sun)**. Cream surfaces, cool blue borders, and eight illustrated programming wallpapers make a calm daytime desktop.
 
 ![Sunny studio wallpaper](backgrounds/01-sunny-studio.png)
 
@@ -11,7 +11,7 @@ A warm, light [Omarchy](https://omarchy.org/) theme inspired by **Monokai Pro Li
 - Softer selections, darker muted text, and thin menu outlines.
 - Matching launcher, notification, tooltip, control, lock-screen, and wallpaper-picker borders. Authentication errors retain their semantic error colors.
 - Sun terminal colors and a matching Chromium tint.
-- Five light illustrations featuring people, coding, and computers.
+- Eight light illustrations featuring people, coding, computers, cats, and nature.
 
 ## Install
 
@@ -40,7 +40,7 @@ Back up or commit personal edits first. Reinstalling with `omarchy theme install
 
 ## Wallpapers
 
-This update replaces the previous collection with five AI-generated illustrations, each a **1672 × 941 PNG**:
+The collection includes eight AI-generated illustrations, each a **1672 × 941 PNG**:
 
 | File | Scene |
 | --- | --- |
@@ -49,6 +49,9 @@ This update replaces the previous collection with five AI-generated illustration
 | `03-garden-programmer.png` | Outdoor coding in a bright garden |
 | `04-team-workshop.png` | Isometric team workspace with computers and a planning board |
 | `05-minimal-coder.png` | Minimal geometric laptop-coding scene |
+| `sunlit-computer-nook.png` | Boy coding at a sunlit computer desk with two cats and a mountain-view window |
+| `sunlit-computer-nook-coding.png` | The same sunny computer nook, with a code editor on the monitor |
+| `leafy-window-retreat.png` | Attic computer workspace with two cats and a garden-view window |
 
 Open the picker with `omarchy theme bg-switcher`. After updating, reapply the theme and reopen the picker to refresh the active wallpaper collection. Personal additions can live in `~/.config/omarchy/backgrounds/monokai-pro-light-sun/`.
 
@@ -59,6 +62,8 @@ Open the picker with `omarchy theme bg-switcher`. After updating, reapply the th
 ![Garden programmer](backgrounds/03-garden-programmer.png)
 ![Team workshop](backgrounds/04-team-workshop.png)
 ![Minimal coder](backgrounds/05-minimal-coder.png)
+![Sunlit computer nook with code on the monitor](backgrounds/sunlit-computer-nook-coding.png)
+![Leafy window retreat](backgrounds/leafy-window-retreat.png)
 
 </details>
 
@@ -116,4 +121,4 @@ After editing, run `omarchy theme set monokai-pro-light-sun`.
 
 This is an unofficial adaptation, not affiliated with or endorsed by [Monokai](https://monokai.pro/) or Omarchy. The core palette and terminal mapping were checked against the installed official Monokai Pro Light (Filter Sun) VS Code theme. Desktop contrast, selection, and focus styling are customized for Omarchy.
 
-All five wallpapers were generated with OpenAI image generation using light programming-workspace prompts and the Sun palette. They are illustrations, not photographs. Preview images show the wallpapers rather than desktop screenshots.
+All eight wallpapers were generated with OpenAI image generation using light programming-workspace prompts and the Sun palette. They are illustrations, not photographs. Preview images show the wallpapers rather than desktop screenshots.
