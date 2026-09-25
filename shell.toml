@@ -1,7 +1,50 @@
-# Launcher/menu border matches the Monokai Pro Light Sun accent (#d4572b)
+# Sun's cool blue balances warm cream surfaces.
+[hyprland]
+active-border = "#2473b6"
+active-border-foreground = "#2473b6"
+
+[controls]
+normal-border = "#2473b6"
+normal-border-alpha = 0.25
+hover-cursor-border = "#2473b6"
+hover-cursor-border-alpha = 0.45
+focus-border = "#2473b6"
+focus-border-alpha = 0.8
+selected-border = "#2473b6"
+
+[popups]
+border = "#2473b6"
+border-alpha = 0.65
+
+[tooltip]
+border = "#2473b6"
+border-alpha = 0.4
+
+[notifications]
+border = "#2473b6"
+border-alpha = 0.65
+
+[launcher]
+border = "#2473b6"
+border-alpha = 0.65
+selected-border = "#2473b6"
+selected-border-alpha = 0.35
+
 [menu]
-border = "accent"
-border-alpha = 1.0
-selected-border = "accent"
-selected-border-alpha = 0.25
-border-width = 2
+border = "#2473b6"
+border-alpha = 0.65
+selected-border = "#2473b6"
+selected-border-alpha = 0.35
+border-width = 1
+
+[polkit]
+border = "#2473b6"
+
+[lock]
+border = "#2473b6"
+border-active = "#2473b6"
+
+[image-picker]
+selected-border = "#2473b6"
+unselected-border = "#2473b6"
+unselected-border-alpha = 0.25
